@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.idea/
+*.py[cod]
+*$py.class
+
+# Coverage etc.
+.coverage
+
+# Generated Documentation
+/docs/_build/
+/docs/modules.rst
+/docs/dataaugmentationpipelinesforcl.rst
+/docs/dataaugmentationpipelinesforcl.*.rst

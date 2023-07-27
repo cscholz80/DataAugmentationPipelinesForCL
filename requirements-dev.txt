@@ -1,0 +1,3 @@
+# Please add requirements for development here
+-r requirements.txt
+twine
